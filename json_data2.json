@@ -1,0 +1,33 @@
+{
+    "BEANR": {
+        "COUNT": 0,
+        "ID": "BEANR",
+        "NAME": "Antwerpen",
+        "LONG": 51.22,
+        "LATH": 4.42,
+        "SHIPS": [
+            "SALAR",
+            "MSC ALICANTE"
+        ]
+    },
+    "LTKLAIPEDAANCH": {
+        "COUNT": 1,
+        "ID": "LTKLAIPEDA ANCH",
+        "NAME": "Klaipeda",
+        "LONG": 55.70329479999999,
+        "LATH": 21.1442794,
+        "SHIPS": [
+            "GREETJE"
+        ]
+    },
+    "FRLEH": {
+        "COUNT": 2,
+        "ID": "FRLEH",
+        "NAME": "Le Havre",
+        "LONG": 49.49437,
+        "LATH": 0.107929,
+        "SHIPS": [
+            "MSC SORAYA"
+        ]
+    }
+}

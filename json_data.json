@@ -1,0 +1,62 @@
+[
+    {
+        "ID": "SALAR",
+        "NAME": "SALAR",
+        "ACT": "Heading to ANTWERP",
+        "LONG": "56.87355",
+        "LATH": "18.41361",
+        "RENK": "red",
+        "NOTES": "a",
+        "DEST": {
+            "ID": "BEANR",
+            "NAME": "Antwerpen",
+            "LONG": 51.22,
+            "LATH": 4.42
+        }
+    },
+    {
+        "ID": "MSCALICANTE",
+        "NAME": "MSC ALICANTE",
+        "ACT": "Heading to ANTWERP",
+        "LONG": "51.80851",
+        "LATH": "3.274877",
+        "RENK": "blue",
+        "NOTES": "b",
+        "DEST": {
+            "ID": "BEANR",
+            "NAME": "Antwerpen",
+            "LONG": 51.22,
+            "LATH": 4.42
+        }
+    },
+    {
+        "ID": "GREETJE",
+        "NAME": "GREETJE",
+        "ACT": "Heading to KLAIPEDA ANCH",
+        "LONG": "55.7035",
+        "LATH": "20.83991",
+        "RENK": "green",
+        "NOTES": "c",
+        "DEST": {
+            "ID": "LTKLAIPEDA ANCH",
+            "NAME": "Klaipeda",
+            "LONG": 55.70329479999999,
+            "LATH": 21.1442794
+        }
+    },
+    {
+        "ID": "MSCSORAYA",
+        "NAME": "MSC SORAYA",
+        "ACT": "Heading to LE HAVRE",
+        "LONG": "49.6141",
+        "LATH": "-0.6497167",
+        "RENK": "purple",
+        "NOTES": "d",
+        "DEST": {
+            "ID": "FRLEH",
+            "NAME": "Le Havre",
+            "LONG": 49.49437,
+            "LATH": 0.107929
+        }
+    }
+]
